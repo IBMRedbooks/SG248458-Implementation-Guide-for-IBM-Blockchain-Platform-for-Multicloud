@@ -1,3 +1,6 @@
 [submodule "IBM_Blockchain_Platform_for_Multicloud_Automation"]
 	path = IBM_Blockchain_Platform_for_Multicloud_Automation
 	url = https://github.com/siler23/IBM_Blockchain_Platform_for_Multicloud_Automation
+[submodule "nfs-helm-dynamic-multiarch"]
+	path = nfs-helm-dynamic-multiarch
+	url = https://github.com/siler23/nfs-helm-dynamic-multiarch
